@@ -1,3 +1,4 @@
+#在一张图片的右上角加一个数字
 from PIL import Image,ImageDraw,ImageFont
 
 import random
