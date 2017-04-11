@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539828bc-dfa6-4456-9bb6-58a55d48f916" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daily_exercise/0008.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daily_exercise/0009.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python.iws" />
@@ -45,13 +45,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0008.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0008.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_exercise/0008.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="e#54#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0009.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daily_exercise/0009.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <element signature="e#53#82#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,8 +106,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -129,11 +141,11 @@
         <option value="$PROJECT_DIR$/daily_exercise/0007.py" />
         <option value="$PROJECT_DIR$/daily_exercise/test.html" />
         <option value="$PROJECT_DIR$/daily_exercise/0008.py" />
+        <option value="$PROJECT_DIR$/daily_exercise/0009.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
     <option name="y" value="41" />
     <option name="width" value="1280" />
     <option name="height" value="736" />
@@ -217,25 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0008">
-    <configuration default="false" name="0004" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_exercise/0004.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.0009">
     <configuration default="false" name="0005" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,6 +297,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_exercise/0008.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="0009" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daily_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daily_exercise/0009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -424,19 +436,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.0004" />
-      <item index="2" class="java.lang.String" itemvalue="Python.0005" />
-      <item index="3" class="java.lang.String" itemvalue="Python.0006" />
-      <item index="4" class="java.lang.String" itemvalue="Python.0007" />
-      <item index="5" class="java.lang.String" itemvalue="Python.0008" />
+      <item index="1" class="java.lang.String" itemvalue="Python.0005" />
+      <item index="2" class="java.lang.String" itemvalue="Python.0006" />
+      <item index="3" class="java.lang.String" itemvalue="Python.0007" />
+      <item index="4" class="java.lang.String" itemvalue="Python.0008" />
+      <item index="5" class="java.lang.String" itemvalue="Python.0009" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.0008" />
-        <item index="1" class="java.lang.String" itemvalue="Python.0007" />
-        <item index="2" class="java.lang.String" itemvalue="Python.0006" />
-        <item index="3" class="java.lang.String" itemvalue="Python.0005" />
-        <item index="4" class="java.lang.String" itemvalue="Python.0004" />
+        <item index="0" class="java.lang.String" itemvalue="Python.0009" />
+        <item index="1" class="java.lang.String" itemvalue="Python.0008" />
+        <item index="2" class="java.lang.String" itemvalue="Python.0007" />
+        <item index="3" class="java.lang.String" itemvalue="Python.0006" />
+        <item index="4" class="java.lang.String" itemvalue="Python.0005" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -476,7 +488,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="41" width="1280" height="736" extended-state="0" />
+    <frame x="0" y="41" width="1280" height="736" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -537,13 +549,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/daily_exercise/0001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daily_exercise/0001.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -768,20 +773,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily_exercise/test.html">
+    <entry file="file://$PROJECT_DIR$/daily_exercise/test.html" />
+    <entry file="file://$PROJECT_DIR$/daily_exercise/0008.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily_exercise/0008.py">
+    <entry file="file://$PROJECT_DIR$/daily_exercise/0009.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#53#82#0" expanded="true" />
           </folding>
         </state>
       </provider>
