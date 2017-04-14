@@ -11,8 +11,6 @@ def define():
 
 if __name__ == '__main__':
     define()
-    for i in s:
-        print i
     temp = raw_input()
     if temp in s:
         print 'Freedom'
